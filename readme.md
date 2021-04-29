@@ -102,7 +102,7 @@ The expected outputs from the example scripts (via MATLAB's publish) are availab
 - [example_rsatomodels]
 
 ## Licenses
-This content is licensed under a BSD 3-Clause License.
+TBD
 
 [//]: # (These are reference links used in the body of this note and they get stripped out when the markdown processor does its job. There is no need to format it nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
    [LIBSVM]: <https://www.csie.ntu.edu.tw/~cjlin/libsvm/>
