@@ -1,0 +1,8 @@
+# these folders should be ignored
+/code/libsvm
+
+# these files should be ignored
+*.m~
+*.md~
+example*.mat
+.DS_Store
